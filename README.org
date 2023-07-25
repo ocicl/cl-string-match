@@ -1,0 +1,12 @@
+* cl-string-match
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sharplispers/cl-string-match
+Old:
+mercurial   |
+| commit  |   |
+| systems | cl-string-match |
+|---------+-------------------------------------------|
+
