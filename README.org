@@ -1,12 +1,7 @@
 * cl-string-match
 
-
-
-dea16da---------+-------------------------------------------|
-dea16da source  | git:https://github.com/sharplispers/cl-string-match
-Old:
-mercurial   dea16da
-dea16da commit  |   |
-dea16da systems | cl-string-match |
-dea16da---------+-------------------------------------------|
-
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/sharplispers/cl-string-match |
+| commit  | dea16da                                             |
+| systems | cl-string-match                                     |
+|---------+-----------------------------------------------------|
